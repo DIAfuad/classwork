@@ -1,0 +1,19 @@
+body{
+	background-color:#FFDDAA;
+	color:#FF0000;
+}
+div{
+	border:2px solid;
+	background:#AAFFBB;
+	height:400px;
+	width:600px;
+}
+
+.div{
+	border:2px dotted;
+	color:blue;
+	height:400px;
+	width:600px;
+}
+img{height:400px;
+	width:600px;}
