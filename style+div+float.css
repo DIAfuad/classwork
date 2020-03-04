@@ -1,0 +1,28 @@
+div{
+	border:2px solid black;
+	height:150px;
+	width:150px;
+	float:left;
+	
+
+}
+.A{
+	background-color:#FF0000;
+
+	
+	}
+.B{
+	background-color:#00FF00;
+	}
+
+
+.C{	
+	background-color:#0000FF;
+	clear:left;
+	}
+.D{
+	clear:left;}
+.E{}
+.F{}
+.G{clear:left;}
+
