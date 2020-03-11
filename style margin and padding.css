@@ -1,0 +1,29 @@
+/*
+it is used for selecting everything
+*{margin: 0px;
+padding: 0px}
+
+*/
+
+body{background-color: #ffaabb;}
+div{background-color: #FF0000;
+height: 150px;
+width: 150px;
+border: 5px solid black;
+float: left;
+/*
+it is used for filling up the screen.
+margin: 0px;
+padding: 0px;
+*/
+}
+.b1{background-color: #FF00AA;
+    
+}
+.b2{background-color: #00FF00;
+    margin:100px 50px 80px 0px;
+clear:left;
+padding:5px 15px 15px 20px;}
+.b3{background-color: #00AAFF;}
+
+
