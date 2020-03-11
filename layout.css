@@ -1,0 +1,33 @@
+div{border:2px solid black;
+	height:150px;
+	width:1329px;
+	float:left;}
+.logo{background-color:#FF0000;
+	width:100px;}
+.banner{background-color:#00FF00;
+		width:1225px;}
+.menu{background-color:#0000FF;
+	clear:left;
+	height:80px;
+	width:1329px;}
+.left{background-color:#00AA00;
+	clear:left;
+	width:100px;
+	height:300px;}
+.main{background-color:#DDAABB;
+	width:1100px;
+	height:300px;}
+.right{background-color:#AACC00;
+	width:120px;
+	height:300px;}
+.footer{background-color:#00AABB;
+	clear:left;
+	height:100px;
+	width:1329px;}
+	
+	
+	
+	
+	
+	
+	
